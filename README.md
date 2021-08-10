@@ -14,3 +14,6 @@ The cloud segmentation algorithms in the repositoty https://github.com/gterren/c
 
 Different optical flow implementation are in file lib_motion_vector.py. These include: Pyramidal Lucas-Kanade, Weithed Lucas-Kanade, Pyramidal Weighted Lucas-Kanade, Cross-Correlation, Normalized Cross-Correlation, Honk-Schunk and more...
 
+## Dataset
+
+A sample dataset is publicaly available in DRYAD repository: https://datadryad.org/stash/dataset/doi%253A10.5061%252Fdryad.zcrjdfn9m
