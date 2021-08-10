@@ -12,7 +12,7 @@ The cloud segmentation algorithms in the repositoty https://github.com/gterren/c
 
 ## Velocity Vectors
 
-Different optical flow implementation are in file lib_motion_vector.py. These include: Pyramidal Lucas-Kanade, Weithed Lucas-Kanade, Pyramidal Weighted Lucas-Kanade, Cross-Correlation, Normalized Cross-Correlation, Honk-Schunk and more...
+Implementations of different optical flow algorithms are in file lib_motion_vector.py. These include: Pyramidal Lucas-Kanade, Weithed Lucas-Kanade, Pyramidal Weighted Lucas-Kanade, Cross-Correlation, Normalized Cross-Correlation, Honk-Schunk and more...
 
 ## Dataset
 
