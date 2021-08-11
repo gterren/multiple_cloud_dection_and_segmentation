@@ -4,7 +4,7 @@ This repository includes the files necessary for the implementation of the cloud
 
 ## Mixture Models
 
-The mixture models with different distribution that were implemented in the article are in the file detection_clustering_utils.py.
+The mixture models with different distribution that were implemented in the article are in the file detection_clustering_utils.py. These include: BiGamma MM, Gamma MM, Guassian MM, Multivariate Gaussian MM, Beta MM, Von Mises MM, and fix point variations with transformation of the velocity vectors while EM optimization.
 
 ## Cloud Segmentation
 
