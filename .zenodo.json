@@ -1,9 +1,9 @@
 {
-    "description": "<p>Codes for cloud segmentation in ground-based infrared sky images adquiared using an sky imager mounted on a solar tracker. The codes run in a High Performances Computer. The library for the paralellization is MPI.</p><p>See journal article: <a href='https://www.sciencedirect.com/science/article/pii/S0960148121006674'>https://www.sciencedirect.com/science/article/pii/S0960148121006674</a></p><p>See CEEGE conference article: <a href='https://www.sciencedirect.com/science/article/pii/S2352484721006235'>https://www.sciencedirect.com/science/article/pii/S2352484721006235</a></p><p>See IEEE PES ISGT conference article: <a href='https://ieeexplore.ieee.org/document/9639922'>https://ieeexplore.ieee.org/document/9639922</a></p><p>See realated data: <a href='https://doi.org/10.5061/dryad.zcrjdfn9m'>https://doi.org/10.5061/dryad.zcrjdfn9m</a></p><p>Additional funding was provided by the King Felipe VI Endowed Chair of the University of New Mexico.</p>", 
+    "description": "<p>This repository includes the implementation of different mixture models for detecting clouds in different wind velocity fields.</p><p>See preprint article: <a href='https://arxiv.org/pdf/2105.03535.pdf'>https://arxiv.org/pdf/2105.03535.pdf</a></p><p>See realated data: <a href='https://doi.org/10.5061/dryad.zcrjdfn9m'>https://doi.org/10.5061/dryad.zcrjdfn9m</a></p><p>Additional funding was provided by the King Felipe VI Endowed Chair of the University of New Mexico.</p>", 
     "license": "Apache-2.0", 
-    "title": "Cloud Segmentation in Infrared Sky Images", 
+    "title": "Detection and Segmentation of Clouds Flowing in Different Wind Velocity Fields", 
     "upload_type": "software", 
-    "publication_date": "2022-08-17", 
+    "publication_date": "2022-08-18", 
     "creators": [
         {
             "affiliation": "University of New Mexico", 
@@ -23,27 +23,32 @@
     "related_identifiers": [
         {
             "scheme": "url", 
-            "identifier": "https://github.com/gterren/cloud_segmentation", 
+            "identifier": "https://github.com/gterren/multiple_cloud_dection_and_segmentation", 
             "relation": "isSupplementTo"
         }, 
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/gterren/multiple_velocity_fields_visualization", 
+            "relation": "isSupplementTo"
+        },
         {
             "scheme": "doi", 
             "identifier": "10.5061/dryad.zcrjdfn9m", 
             "relation": "isSupplementTo"
         }, 
         {
-            "scheme": "doi", 
-            "identifier": "10.1016/j.egyr.2021.08.020", 
-            "relation": "isSupplementTo"
-        },
-              {
-            "scheme": "doi", 
-            "identifier": "10.1016/j.renene.2021.04.141", 
+            "scheme": "dio", 
+            "identifier": "doi.org/10.48550/arXiv.2105.03535", 
             "relation": "isSupplementTo"
         },
         {
             "scheme": "doi", 
-            "identifier": "10.1109/ISGTEurope52324.2021.9639922", 
+            "identifier": "10.1016/j.apenergy.2021.116656", 
+            "relation": "isSupplementTo"
+        },
+        {
+            "scheme": "doi", 
+            "identifier": "10.1109/ISGTEurope52324.2021.9640045", 
             "relation": "isSupplementTo"
         }
     ]
