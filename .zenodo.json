@@ -38,7 +38,7 @@
         }, 
         {
             "scheme": "dio", 
-            "identifier": "doi.org/10.48550/arXiv.2105.03535", 
+            "identifier": "10.48550/arXiv.2105.03535", 
             "relation": "isSupplementTo"
         },
         {
