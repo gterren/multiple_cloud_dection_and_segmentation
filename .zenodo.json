@@ -32,15 +32,15 @@
             "relation": "isSupplementTo"
         },
         {
+            "scheme": "url", 
+            "identifier": "https://arxiv.org/pdf/2105.03535.pdf", 
+            "relation": "isSupplementTo"
+        },
+        {
             "scheme": "doi", 
             "identifier": "10.5061/dryad.zcrjdfn9m", 
             "relation": "isSupplementTo"
         }, 
-        {
-            "scheme": "dio", 
-            "identifier": "10.48550/arXiv.2105.03535", 
-            "relation": "isSupplementTo"
-        },
         {
             "scheme": "doi", 
             "identifier": "10.1016/j.apenergy.2021.116656", 
