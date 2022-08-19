@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/392003386.svg)](https://zenodo.org/badge/latestdoi/392003386)
+
 # Detection of Clouds in Multiple Wind Velocity Fields
 
 This repository includes the files necessary for the implementation of the cloud dection algorithm explained in article https://arxiv.org/pdf/2105.03535.pdf.
